@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Neural Networks Materials
+subtitle: Ferran Reverter and Esteban Vegas
 ---
 
 # Neural Networks Materials
