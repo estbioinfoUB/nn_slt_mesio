@@ -21,6 +21,8 @@ Teaching materials for neural networks sessions in the Statistical Learning cour
 
 ### 03 · CNN Practical Sessions
 [Open folder: 03a_CNN_lab-CIFAR](https://github.com/estbioinfoUB/nn_slt_mesio/tree/main/03a_CNN_lab-CIFAR/)
+  
+  - [cnn_cifar.html](https://estbioinfoUB.github.io/nn_slt_mesio/03a_CNN_lab-CIFAR/cnn_cifar(1).html)
 
 [Open folder: 03b_CNN_lab-MNIST](https://github.com/estbioinfoUB/nn_slt_mesio/tree/main/03b_CNN_lab-MNIST/)
 
