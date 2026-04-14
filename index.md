@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neural Networks Materials
+title: Neural Networks Materials (MESIO 2025-26)
 subtitle: Ferran Reverter and Esteban Vegas
 ---
 
