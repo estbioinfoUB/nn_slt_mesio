@@ -4,8 +4,6 @@ title: Neural Networks Materials (MESIO 2025-26)
 subtitle: Ferran Reverter and Esteban Vegas
 ---
 
-# Neural Networks Materials
-
 Teaching materials for neural networks sessions in the Statistical Learning course.
 
 > Materials have been minimally organized for navigation purposes.  
